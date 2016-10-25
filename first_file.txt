@@ -1,5 +1,1 @@
-;
-learn is always fun
-q
-exit;
-
+this is the first file
